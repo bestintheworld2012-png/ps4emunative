@@ -1,0 +1,8 @@
+{
+  "name": "OrbisX - PS4 Native Windows Compatibility Layer",
+  "description": "High-performance native x86-64 compatibility layer, GNM-to-Vulkan shader translator, PKG inspector, and Windows launcher suite for PlayStation 4 titles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
